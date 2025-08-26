@@ -14,7 +14,7 @@ export const Header: React.FC = () => {
 
         {/* Main Title */}
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 bg-gradient-to-r from-amber-600 via-orange-600 to-amber-600 bg-clip-text text-transparent">
-          Sher Collection
+          Sher Market
         </h1>
 
         {/* Subtitle */}

@@ -93,9 +93,9 @@ function App() {
           <p className="text-stone-600 text-sm">
             Welcome to the world of poetry
           </p>
-          <div className="mt-2 flex items-center justify-center space-x-1">
+          <div className="mt-2 flex items-center justify-center space-x-2">
             <span className="text-stone-400 text-xs">Made with</span>
-            <div className="w-3 h-3 bg-red-500 transform rotate-45 rounded-sm"></div>
+            <div className=" text-red-500 ">♥️</div>
             <span className="text-stone-400 text-xs">for poetry lovers</span>
           </div>
         </footer>
